@@ -41,7 +41,7 @@
   <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.techelevator.Application" />
-      <module name="portfolio-project" />
+      <module name="wage-calculator" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.techelevator.*" />
