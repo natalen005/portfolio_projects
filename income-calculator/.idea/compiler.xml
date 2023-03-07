@@ -7,7 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="portfolio-project" />
-        <module name="wage-calculator" />
+        <module name="income-calculator" />
+        <module name="Income-calculator" />
       </profile>
     </annotationProcessing>
   </component>
