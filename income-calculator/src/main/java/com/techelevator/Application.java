@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Application {
 
     public static void main(String[] args) {
-
         UI ui = new UI();
 
         ui.greeting();
@@ -17,6 +16,7 @@ public class Application {
 
         ui.results(wage, hours, whenGettingPaid, weeks);
 
+        ui.thanks();
     }
 }
 
